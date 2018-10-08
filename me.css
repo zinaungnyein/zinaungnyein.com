@@ -16,37 +16,46 @@ div.mytext{
 }
 
 div#first{
-    background-color: red;
     font-size: 8em;
     text-transform: uppercase;
     text-align: center;
     position: relative;
     color: white;
+    background: #B3C7D8;
+    background: -moz-linear-gradient(top, #B3C7D8 0%, #4B677F 100%);
+    background: -webkit-linear-gradient(top, #B3C7D8 0%, #4B677F 100%);
 }
 
 div#second{
-    background-color: #ffc728;
     font-size: 8em;
     text-transform: uppercase;
     text-align: center;
     position: relative;
     color: white;
+    background: #CAA0EF;
+    background: -moz-linear-gradient(top, #CAA0EF 0%, #4F0D89 100%);
+    background: -webkit-linear-gradient(top, #CAA0EF 0%, #4F0D89 100%);
+    
 }
 
 div#third{
-    background-color: orange;
     font-size: 8em;
     text-transform: uppercase;
     text-align: center;
     position: relative;
     color: white;
+    background: #7CF47A;
+    background: -moz-linear-gradient(top, #7CF47A 0%, #0C720A 100%);
+    background: -webkit-linear-gradient(top, #7CF47A 0%, #0C720A 100%);
 }
 
 div#fourth{
-    background-color: blue;
     font-size: 8em;
     text-transform: uppercase;
     text-align: center;
     position: relative;
     color: white;
+    background: #F2A371;
+    background: -moz-linear-gradient(top, #F2A371 0%, #BA4801 100%);
+    background: -webkit-linear-gradient(top, #F2A371 0%, #BA4801 100%);
 }
